@@ -1,5 +1,3 @@
-# Multi-threading-computation-system
-
 # Two-Phase Commit Protocol Implementation
 
 ## Project Overview
